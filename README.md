@@ -49,3 +49,4 @@ int main() {
 Заработок с первых 75 газет: 3750
 Заработок с оставшихся 58 газет: 1740
 Итоговый заработок: 5490
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9f492f64-945d-476d-ba15-d35c9d99a121" />
